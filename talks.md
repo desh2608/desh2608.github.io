@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: Teaching
 ---
 
 Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
