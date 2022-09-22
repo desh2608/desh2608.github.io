@@ -4,7 +4,7 @@ title: Hi, I'm Andrés
 subtitle: PhD in Economics
 ---
 
-<img align="centre" width="480" height="480" src="/static/img/FotoPaginaFinal.png">
+<img align="center" width="480" height="480" src="/static/img/FotoPaginaFinal.png">
 
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
 **INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. 
