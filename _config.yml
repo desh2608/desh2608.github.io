@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://desh2608.github.io"
+url: "https://afioriti.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Desh Raj
+title: Andrés Fioriti
 
 # Short description of your site
 description: Personal Website
@@ -25,13 +25,13 @@ description: Personal Website
 navbar-links:
   Home: ""
   Publications: "publications"
-  Blog: "blog"
-  Talks: "talks"
-  Resume: "resume"
+  Working Papers: "workingpapers"
+  Teaching: "teaching"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/static/img/desh_new.jpeg"
+avatar: "/static/img/Foto Pagina.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -42,18 +42,18 @@ avatar: "/static/img/desh_new.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Desh Raj
-  email: "draj@cs.jhu.edu"
-  github: desh2608    # eg. daattali
-  linkedin: rdesh26
-  twitter: rdesh26
+  name: Andrés Fioriti
+  email: "andres.fioriti@uns.edu.ar"
+  github: afioriti    # eg. daattali
+  # linkedin: rdesh26
+  # twitter: rdesh26
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -68,21 +68,21 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
-  google: true
+  google: false
   linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "desh2608.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "afioriti.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "desh2608-github-io"
+# disqus: "desh2608-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-121781547-1"
+google_analytics: "77704739"
 
 # Google Tag Manager ID
 #gtm: ""
