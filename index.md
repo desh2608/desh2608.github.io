@@ -10,3 +10,5 @@ My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Univer
 I am a microeconomic theorist, with research interests in **Information**, **Mechanism Design**, **Game Theory**, and **Financial Economics**.
 
 ![Mi fotelis](/static/img/FotoPaginaFinal.png)
+
+<img align="left" width="100" height="100" src="/static/img/FotoPaginaFinal.png">
