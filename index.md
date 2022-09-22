@@ -12,3 +12,9 @@ I am a microeconomic theorist, with research interests in **Information**, **Mec
 ![Mi fotelis](/static/img/FotoPaginaFinal.png)
 
 <img align="left" width="400" height="400" src="/static/img/FotoPaginaFinal.png">
+
+<div>
+
+*Emphasized* text.
+
+</div>
