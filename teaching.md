@@ -12,6 +12,8 @@ title: Teaching
   Visiting Profesor (since 2021)  
   **Universidad de Buenos Aires**
 
+***
+
 - **Past**
   - **Universidad Nacional del Sur**
     - _Statistics Demography and Econometrics_ (Undergrad)  
