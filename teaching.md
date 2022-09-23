@@ -4,14 +4,14 @@ title: Teaching
 ---
 
 - **Current**
-  - _Advanced Microeconomics_ (Undergrad)  
-  Assistant Profesor (since 2019)  
-  **Universidad Nacional del Sur**
+  - **Universidad Nacional del Sur**  
+  _Advanced Microeconomics_ (Undergrad)  
+  Assistant Profesor (since 2019)
   
-  - _Topics Advanced Microeconomics_ (Masters)  
-  Visiting Profesor (since 2021)  
-  **Universidad de Buenos Aires**
-
+  - **Universidad de Buenos Aires**  
+  _Topics Advanced Microeconomics_ (Masters)  
+  Visiting Profesor (since 2021)
+  
 ***
 
 - **Past**
