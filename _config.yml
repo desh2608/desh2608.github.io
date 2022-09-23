@@ -25,7 +25,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Home 2: "index2"
-  Home 3: "index3"
+  # Home 3: "index3"
   Publications: "publications"
   Working Papers: "workingpapers"
   Teaching: "teaching"
