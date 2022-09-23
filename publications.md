@@ -47,4 +47,23 @@ You can also browse my [Google Scholar profile]([https://duckduckgo.com](https:/
   *European Economic Review*  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0014292119300807?via%3Dihub)
   
+- **Quantifying worldwide economic distress**  
+  Fernando Delbianco, _**Andrés Fioriti**_ & Fernando Tohmé  
+  *Regional Statistics*  
+  [Paper](https://ri.conicet.gov.ar/handle/11336/93242)
+  
 
+**2016**
+
+- **High Inflation, Price Stability and Hysteresis Effect: Evidence from Argentina**  
+  Carlos Dabús, Fernando Delbianco & _**Andrés Fioriti**_  
+  *Economic Analysis Review*  
+  [Paper](https://www.rae-ear.org/index.php/rae/article/view/452)
+  
+  
+  **2014**
+
+- **Were Financial Flows in Latin America and the Caribbean Shifted by their Crises?**  
+  Fernando Delbianco & _**Andrés Fioriti**_  
+  *International Journal of Finance & Economics*  
+  [Paper](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.1503)
