@@ -3,14 +3,14 @@ layout: page
 title: Teaching
 ---
 
-- **Current**
-  - **Universidad Nacional del Sur**  
-  _Advanced Microeconomics_ (Undergrad)  
-  Assistant Profesor (since 2019)
+###Current
+- **Universidad Nacional del Sur**  
+_Advanced Microeconomics_ (Undergrad)  
+Assistant Profesor (since 2019)
   
-  - **Universidad de Buenos Aires**  
-  _Topics Advanced Microeconomics_ (Masters)  
-  Visiting Profesor (since 2021)
+- **Universidad de Buenos Aires**  
+_Topics Advanced Microeconomics_ (Masters)  
+Visiting Profesor (since 2021)
   
 ***
 
