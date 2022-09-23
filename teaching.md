@@ -19,8 +19,8 @@ Visiting Profesor (since 2021)
 _Statistics Demography and Econometrics_ (Undergrad)  
 Profesor (2018)
     
-_Segregation and Inequality: Axiomatic Characterization and Measurement_ (PhD)  
-Profesor (2018)
+  _Segregation and Inequality: Axiomatic Characterization and Measurement_ (PhD)  
+  Profesor (2018)
 
 _Development_ (Undergrad)  
 Assistant Profesor (2016 - 2018)
