@@ -28,7 +28,7 @@ title: Teaching
     _Economics 101_ (Undergrad)  
     Teaching Assistant (2010 - 2013)
     
-  - **University of Warwick**
+  - **University of Warwick**  
     _Introduction to Quantitative Economics_ (Undergrad)  
     Teaching Assistant (2015 - 2016)
     
