@@ -2,10 +2,11 @@
 layout: page
 title: Working Papers
 ---
-
+<!---
 - **Signaling Equilibria in Takeovers under Risk Aversion**  
   Diego Carrasco-Novoa, _**Andrés Fioriti**_ & [Allan Hernández Chanto](https://sites.google.com/site/aherchanto/)    
   Working Paper: Forthcoming
+  -->
   
 - **Securities and Voting**  
   _**Andrés Fioriti**_, [Allan Hernández Chanto](https://sites.google.com/site/aherchanto/) & [Guillem Ordóñez Calafi](http://guillemordonez.weebly.com/)  
