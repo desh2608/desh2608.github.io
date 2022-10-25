@@ -24,7 +24,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Home 2: "index2"
+  # Home 2: "index2"
   # Home 3: "index3"
   Publications: "publications"
   Working Papers: "workingpapers"
