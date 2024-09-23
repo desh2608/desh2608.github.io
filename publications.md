@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my [Google Scholar profile]([https://duckduckgo.com](https://scholar.google.com/citations?user=SnXwYSsAAAAJ&hl=en)).
+You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=SnXwYSsAAAAJ&hl=en).
 
 **2022**
 
