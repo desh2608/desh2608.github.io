@@ -1,6 +1,6 @@
 ---
 layout: page
-[comment]: <> (title: Andrés Fioriti)
+title: Andrés Fioriti
 ---
 **Andrés Fioriti**
 
