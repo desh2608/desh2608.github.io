@@ -20,3 +20,5 @@ I am a microeconomic theorist, with research interests in **Information**, **Mec
 - September 2022: Webpage came to a closer finish.
 
 - June 2022: Promoted as a National Researcher.
+
+<a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
