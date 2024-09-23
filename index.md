@@ -3,7 +3,7 @@ layout: page
 subtitle: Andrés Fioriti
 ---
 <p align="center">
-  <strong style="font-size: 2em;">Andrés Fioriti</strong>
+  <strong style="font-size: 6em;">Andrés Fioriti</strong>
 </p>
 
 <p align="center">
