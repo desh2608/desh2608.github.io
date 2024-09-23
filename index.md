@@ -21,5 +21,4 @@ I am a microeconomic theorist, with research interests in **Information**, **Mec
 
 - June 2022: Promoted as a National Researcher.
 
-<a href="url"><img src="https://www.lucushost.com/blog/wp-content/uploads/2018/02/ejemplo-imagen-pexels.jpeg" height="auto" width="200" style="border-radius:50%"></a>
 
