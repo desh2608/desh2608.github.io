@@ -2,6 +2,10 @@
 layout: page
 title: Andrés Fioriti
 ---
+
+<p align="center">
+  <h1>Andrés Fioriti</h1>
+</p>
 <h1 style="text-align: center;">Andrés Fioriti</h1>
 
 <p align="center">
