@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Andrés
-subtitle: PhD in Economics
+title: Andrés Fioriti
 ---
 
 <p align="center">
