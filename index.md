@@ -1,6 +1,5 @@
 ---
 layout: page
-subtitle: Andrés Fioriti1
 ---
 <p align="center">
   <strong style="font-size: 40em;">Andrés Fioriti</strong>
