@@ -2,11 +2,11 @@
 layout: page
 title: Andrés Fioriti
 ---
-MODIFICADA
-
 <p align="center">
   <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
 </p>
+
+MODIFICADA
 
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
 **INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. 
