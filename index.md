@@ -2,7 +2,6 @@
 layout: page
 title: Andrés Fioriti
 ---
-<h1 align="center">Andrés Fioriti</h1>
 
 <p align="center">
   <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
