@@ -23,7 +23,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "index1"
   # Home 2: "index2"
   # Home 3: "index3"
   Publications: "publications"
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/static/img/FotoPaginaFinal.png"
+avatar: "/static/img/Foto-Fioriti-Pagina.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
