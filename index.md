@@ -2,7 +2,7 @@
 layout: page
 title: Andrés Fioriti
 ---
-<p align="center" style="font-size: 2em;">
+<p align="center" style="font-size: 5em;">
   <strong>Andrés Fioriti</strong>
 </p>
 
