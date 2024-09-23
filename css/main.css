@@ -48,7 +48,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 50px;
+  padding-top: 80px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -424,7 +424,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 40px 0 20px;
   position: relative;
 }
 .intro-header.big-img {
@@ -434,7 +434,7 @@ footer .theme-by {
   background-size: cover;
   -o-background-size: cover;
   margin-top: 51px; /* The small navbar is 50px tall + 1px border */
-  margin-bottom: 35px;
+  margin-bottom: 5px;
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
