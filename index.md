@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Andrés Fioriti
+[comment]: <> (title: Andrés Fioriti)
 ---
+**Andrés Fioriti**
 
 <p align="center">
   <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
