@@ -5,7 +5,9 @@ subtitle: PhD in Economics
 ---
 
 <p align="center">
-  <img width="480" height="480" src="/static/img/Foto-Fioriti-Pagina.jpg" style="border-radius: 50%; object-fit: cover;">
+  <div style="width: 480px; height: 480px; border-radius: 50%; overflow: hidden;">
+    <img src="/static/img/Foto-Fioriti-Pagina.jpg" width="480" height="480" style="object-fit: cover;">
+  </div>
 </p>
 
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
