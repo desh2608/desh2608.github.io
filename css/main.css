@@ -48,7 +48,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 10px;
+  padding-top: 80px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -478,7 +478,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
-  margin-bottom: 20px;
+  margin-bottom: 1px;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
