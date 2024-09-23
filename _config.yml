@@ -23,7 +23,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index3"
+  Home: "index2"
   # Home 2: "index2"
   # Home 3: "index3"
   Publications: "publications"
