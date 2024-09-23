@@ -3,9 +3,12 @@ layout: page
 title: Hi, I'm Andrés
 subtitle: PhD in Economics
 ---
-<p align="center">
-  <img class="rounded-image" src="/static/img/Foto-Fioriti-Pagina.jpg" width="480" height="480">
-</p>
+.rounded-image {
+  border-radius: 50%;
+  width: 480px;
+  height: 480px;
+  object-fit: cover; /* Ensures the image maintains its aspect ratio and fills the circle */
+}
 
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
 **INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. 
