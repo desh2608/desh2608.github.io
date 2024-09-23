@@ -10,6 +10,10 @@ subtitle: PhD in Economics
   object-fit: cover; /* Ensures the image maintains its aspect ratio and fills the circle */
 }
 
+<p align="center">
+  <img class="rounded-image" src="/static/img/Foto-Fioriti-Pagina.jpg" width="480" height="480">
+</p>
+
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
 **INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. 
 
