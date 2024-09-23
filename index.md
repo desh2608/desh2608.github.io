@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Andrés Fioriti
 subtitle: Andrés Fioriti
 ---
-
 <p align="center">
-  <strong style="font-size: 2em;">Andrés Fioriti</strong>
+  <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
 </p>
 
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
