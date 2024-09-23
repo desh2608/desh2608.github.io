@@ -3,6 +3,10 @@ layout: page
 subtitle: Andrés Fioriti
 ---
 <p align="center">
+  <strong style="font-size: 2em;">Andrés Fioriti</strong>
+</p>
+
+<p align="center">
   <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
 </p>
 
