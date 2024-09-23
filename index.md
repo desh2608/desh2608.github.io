@@ -5,8 +5,8 @@ subtitle: PhD in Economics
 ---
 
 <p align="center">
-  <div style="width: 480px; height: 480px; border-radius: 50%; overflow: hidden; display: inline-block; position: relative;">
-    <img src="/static/img/Foto-Fioriti-Pagina.jpg" style="width: 100%; height: 100%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  <div style="width: 480px; height: 480px; border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="/static/img/Foto-Fioriti-Pagina.jpg" style="width: 480px; height: 480px; object-fit: cover;">
   </div>
 </p>
 
