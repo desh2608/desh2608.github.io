@@ -4,9 +4,8 @@ title: Andrés Fioriti
 ---
 
 <p align="center">
-  <h1>Andrés Fioriti</h1>
+  <h2>Andrés Fioriti</h2>
 </p>
-<h1 style="text-align: center;">Andrés Fioriti</h1>
 
 <p align="center">
   <img width="240" height="240" src="/static/img/Foto-Fioriti-Pagina.jpg">
