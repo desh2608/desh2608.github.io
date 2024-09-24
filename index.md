@@ -7,7 +7,7 @@ title: Andrés Fioriti
 </p>
 
 My name is Andrés Fioriti. I am an Assistant Professor in Economics at **Universidad Nacional del Sur** and a researcher at 
-**INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. 
+**INMABB-CONICET** (National Research Council), both in Bahía Blanca, _Argentina_. <img style="float: right;" width="10" height="10" src="/static/img/Foto-Fioriti-Pagina.jpg">
 
 I am a microeconomic theorist, with research interests in **Information**, **Mechanism Design**, **Game Theory**, and **Financial Economics**.
 
