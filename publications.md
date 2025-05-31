@@ -10,12 +10,19 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7p
 
 - **Faster Speech-LLaMA inference with multi-token prediction**  
   **Desh Raj**, Gil Keren, Junteng Jia, Jay Mahadeokar, Ozlem Kalinli  
-  *Submitted to IEEE ICASSP 2025*  
+  *IEEE ICASSP 2025*  
   [Paper](https://arxiv.org/abs/2409.08148){: .btn} 
+  [Slides](/static/ppt/icassp25_medusa.pdf){: .btn} 
+  [Video](/static/video/icassp_25_medusa_video.mp4){: .btn} 
+
+- **Speech-N-LlaMA: Improving Speech LLMs with Multi-Pass Training**  
+  Amit Kumar Singh Yadav, Gil Keren, **Desh Raj**, Wei Zhou, Junteng Jia, Ke Li, Ying Xu, Chunyang Wu, Jay Mahadeokar, Ozlem Kalinli  
+  *IEEE ICASSP 2025*  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10890743){: .btn} 
 
 - **M-BEST-RQ: A multi-channel speech foundation model for smart glasses**  
   Yufeng Yang, **Desh Raj**, Ju Lin, Niko Moritz, Junteng Jia, Gil Keren, Egor Lakomkin, Yiteng Huang, Jacob Donley, Jay Mahadeokar, Ozlem Kalinli  
-  *Submitted to IEEE ICASSP 2025*  
+  *IEEE ICASSP 2025*  
   [Paper](https://arxiv.org/abs/2409.11494){: .btn} 
 
 - **ConEC: Earnings Call Dataset with Real-world Contexts for Benchmarking Contextual Speech Recognition**  
