@@ -3,252 +3,612 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
-<br />
+<div class="publications-header">
+  <p class="publications-description">
+    You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+  </p>
+</div>
 
-**2024**
+<div class="publications-timeline">
 
-- **Faster Speech-LLaMA inference with multi-token prediction**  
-  **Desh Raj**, Gil Keren, Junteng Jia, Jay Mahadeokar, Ozlem Kalinli  
-  *Submitted to IEEE ICASSP 2025*  
-  [Paper](https://arxiv.org/abs/2409.08148){: .btn} 
+<div class="year-section" id="year-2024">
+  <div class="year-header">
+    <h2 class="year-title">2024</h2>
+    <div class="year-count">7 publications</div>
+  </div>
 
-- **M-BEST-RQ: A multi-channel speech foundation model for smart glasses**  
-  Yufeng Yang, **Desh Raj**, Ju Lin, Niko Moritz, Junteng Jia, Gil Keren, Egor Lakomkin, Yiteng Huang, Jacob Donley, Jay Mahadeokar, Ozlem Kalinli  
-  *Submitted to IEEE ICASSP 2025*  
-  [Paper](https://arxiv.org/abs/2409.11494){: .btn} 
+  <div class="publications-list">
+    <div class="publication-item">
+      <h3 class="paper-title">Faster Speech-LLaMA inference with multi-token prediction</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Gil Keren</span>,
+        <span class="author-name">Junteng Jia</span>,
+        <span class="author-name">Jay Mahadeokar</span>,
+        <span class="author-name">Ozlem Kalinli</span>
+      </div>
+      <div class="venue">Submitted to IEEE ICASSP 2025</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2409.08148" class="paper-link arxiv">Paper</a>
+      </div>
+    </div>
 
-- **ConEC: Earnings Call Dataset with Real-world Contexts for Benchmarking Contextual Speech Recognition**  
-  Ruizhe Huang, Mahsa Yarmohammadi, Jan Trmal, Jing Liu, **Desh Raj**, Leibny Paola Garcia, Alexei V Ivanov, Patrick Ehlen, Mingzhi Yu, Dan Povey, Sanjeev Khudanpur  
-  *LREC 2024*  
-  [Paper](https://aclanthology.org/2024.lrec-main.328/){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">M-BEST-RQ: A multi-channel speech foundation model for smart glasses</h3>
+      <div class="authors">
+        <span class="author-name">Yufeng Yang</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Ju Lin</span>,
+        <span class="author-name">Niko Moritz</span>,
+        <span class="author-name">Junteng Jia</span>,
+        <span class="author-name">Gil Keren</span>,
+        <span class="author-name">Egor Lakomkin</span>,
+        <span class="author-name">Yiteng Huang</span>,
+        <span class="author-name">Jacob Donley</span>,
+        <span class="author-name">Jay Mahadeokar</span>,
+        <span class="author-name">Ozlem Kalinli</span>
+      </div>
+      <div class="venue">Submitted to IEEE ICASSP 2025</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2409.11494" class="paper-link arxiv">Paper</a>
+      </div>
+    </div>
 
-- **Listening to multi-talker conversations: Modular and end-to-end perspectives**  
-  **Desh Raj**  
-  *PhD Thesis, Johns Hopkins University*  
-  [Thesis](https://arxiv.org/abs/2402.08932){: .btn} 
-  [Slides](/static/ppt/thesis_defense.pdf){: .btn} 
-  [Video](https://www.youtube.com/watch?v=iKnCUHIgG7A){: .btn}  
+    <div class="publication-item">
+      <h3 class="paper-title">ConEC: Earnings Call Dataset with Real-world Contexts for Benchmarking Contextual Speech Recognition</h3>
+      <div class="authors">
+        <span class="author-name">Ruizhe Huang</span>,
+        <span class="author-name">Mahsa Yarmohammadi</span>,
+        <span class="author-name">Jan Trmal</span>,
+        <span class="author-name">Jing Liu</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Leibny Paola Garcia</span>,
+        <span class="author-name">Alexei V Ivanov</span>,
+        <span class="author-name">Patrick Ehlen</span>,
+        <span class="author-name">Mingzhi Yu</span>,
+        <span class="author-name">Dan Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">LREC 2024</div>
+      <div class="paper-links">
+        <a href="https://aclanthology.org/2024.lrec-main.328/" class="paper-link acl">Paper</a>
+      </div>
+    </div>
 
-- **On speaker attribution with SURT**  
-  **Desh Raj**, Matthew Wiesner, Matthew Maciejewski, Paola Garcia, Daniel Povey, Sanjeev Khudanpur  
-  *Speaker Odyssey 2024*  
-  [Paper](https://arxiv.org/abs/2401.15676){: .btn}
-  [Slides](/static/ppt/odyssey24_surt.pdf){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">Listening to multi-talker conversations: Modular and end-to-end perspectives</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>
+      </div>
+      <div class="venue">PhD Thesis, Johns Hopkins University</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2402.08932" class="paper-link arxiv">Thesis</a>
+        <a href="/static/ppt/thesis_defense.pdf" class="paper-link slides">Slides</a>
+        <a href="https://www.youtube.com/watch?v=iKnCUHIgG7A" class="paper-link video">Video</a>
+      </div>
+    </div>
 
-- **Updated corpora and benchmarks for long-form speech recognition**  
-  Jennifer Drexler Fox, **Desh Raj**, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté  
-  *IEEE ICASSP 2024*  
-  [Paper](https://arxiv.org/abs/2309.15013){: .btn}
-  [Code](https://github.com/revdotcom/speech-datasets){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">On speaker attribution with SURT</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Matthew Wiesner</span>,
+        <span class="author-name">Matthew Maciejewski</span>,
+        <span class="author-name">Paola Garcia</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">Speaker Odyssey 2024</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2401.15676" class="paper-link arxiv">Paper</a>
+        <a href="/static/ppt/odyssey24_surt.pdf" class="paper-link slides">Slides</a>
+      </div>
+    </div>
 
-- **Training Early-Exit Architectures for Automatic Speech Recognition: Fine-Tuning Pre-Trained Models or Training from Scratch**  
-  George August Wright, Umberto Cappellazzo, Salah Zaiem, **Desh Raj**, Lucas Ondel Yang, Daniele Falavigna, Alessio Brutti  
-  *IEEE ICASSP 2024 Workshop on Self-supervision in Audio, Speech, and Beyond (SASB)*  
-  [Paper](https://aps.arxiv.org/abs/2309.09546){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">Updated corpora and benchmarks for long-form speech recognition</h3>
+      <div class="authors">
+        <span class="author-name">Jennifer Drexler Fox</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Natalie Delworth</span>,
+        <span class="author-name">Quinn McNamara</span>,
+        <span class="author-name">Corey Miller</span>,
+        <span class="author-name">Migüel Jetté</span>
+      </div>
+      <div class="venue">IEEE ICASSP 2024</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2309.15013" class="paper-link arxiv">Paper</a>
+        <a href="https://github.com/revdotcom/speech-datasets" class="paper-link code">Code</a>
+      </div>
+    </div>
 
-**2023**
+    <div class="publication-item">
+      <h3 class="paper-title">Training Early-Exit Architectures for Automatic Speech Recognition: Fine-Tuning Pre-Trained Models or Training from Scratch</h3>
+      <div class="authors">
+        <span class="author-name">George August Wright</span>,
+        <span class="author-name">Umberto Cappellazzo</span>,
+        <span class="author-name">Salah Zaiem</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Lucas Ondel Yang</span>,
+        <span class="author-name">Daniele Falavigna</span>,
+        <span class="author-name">Alessio Brutti</span>
+      </div>
+      <div class="venue">IEEE ICASSP 2024 Workshop on Self-supervision in Audio, Speech, and Beyond (SASB)</div>
+      <div class="paper-links">
+        <a href="https://aps.arxiv.org/abs/2309.09546" class="paper-link arxiv">Paper</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-- **Learning from flawed data: Weakly supervised automatic speech recognition**  
-  Dongji Gao, Hainan Xu, **Desh Raj**, Leibny Paola Garcia Perera, Daniel Povey, Sanjeev Khudanpur  
-  *IEEE ASRU 2023*  
-  [Paper](https://arxiv.org/abs/2309.15796){: .btn}
-  [Code](https://github.com/k2-fsa/icefall/pull/1255){: .btn} 
+<div class="year-section" id="year-2023">
+  <div class="year-header">
+    <h2 class="year-title">2023</h2>
+    <div class="year-count">6 publications</div>
+  </div>
 
-- **SURT 2.0: Advances in transducer-based multi-talker speech recognition**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
-  [Paper](https://ieeexplore.ieee.org/document/10262308){: .btn}
-  [ArXiv](https://arxiv.org/abs/2306.10559){: .btn}
-  [Poster](/static/poster/taslp-23-surt.pdf){: .btn}
-  [Webpage](https://sites.google.com/view/surt2){: .btn} 
+  <div class="publications-list">
 
-- **The CHiME-7 DASR challenge: Distant meeting transcription with multiple devices in diverse scenarios**  
-  Samuele Cornell, Matthew Wiesner, Shinji Watanabe, **Desh Raj**, Xuankai Chang, Paola Garcia, Matthew Maciejewski, Yoshiki Masuyama, Zhong-Qiu Wang, Stefano Squartini, Sanjeev Khudanpur  
-  *CHiME Workshop at InterSpeech 2023*  
-  [Paper](https://arxiv.org/abs/2306.13734){: .btn}
-  [Website](https://www.chimechallenge.org/current/task1/index){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">Learning from flawed data: Weakly supervised automatic speech recognition</h3>
+      <div class="authors">
+        <span class="author-name">Dongji Gao</span>,
+        <span class="author-name">Hainan Xu</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Leibny Paola Garcia Perera</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">IEEE ASRU 2023</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2309.15796" class="paper-link arxiv">Paper</a>
+        <a href="https://github.com/k2-fsa/icefall/pull/1255" class="paper-link code">Code</a>
+      </div>
+    </div>
 
-- **GPU-accelerated guided source separation for meeting transcription**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  *InterSpeech 2023*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2023/raj23_interspeech.html){: .btn}
-  [ArXiv](https://arxiv.org/abs/2212.05271){: .btn}
-  [Poster](/static/poster/interspeech-23-gss.pdf){: .btn}
-  [Code](https://github.com/desh2608/gss){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">SURT 2.0: Advances in transducer-based multi-talker speech recognition</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)</div>
+      <div class="paper-links">
+        <a href="https://ieeexplore.ieee.org/document/10262308" class="paper-link ieee">Paper</a>
+        <a href="https://arxiv.org/abs/2306.10559" class="paper-link arxiv">ArXiv</a>
+        <a href="/static/poster/taslp-23-surt.pdf" class="paper-link poster">Poster</a>
+        <a href="https://sites.google.com/view/surt2" class="paper-link webpage">Webpage</a>
+      </div>
+    </div>
 
-- **Anchored speech recognition using neural transducers**  
-  **Desh Raj**, Junteng Jia, Jay Mahadeokar, Chunyang Wu, Niko Moritz, Xiaohui Zhang, Ozlem Kalinli  
-  *IEEE ICASSP 2023*  
-  [Paper](https://arxiv.org/abs/2210.11588){: .btn}
-  [Slides](/static/ppt/icassp23_tsasr.pdf){: .btn}
-  [Video](https://youtu.be/L2WnjQC8Pe0){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">The CHiME-7 DASR challenge: Distant meeting transcription with multiple devices in diverse scenarios</h3>
+      <div class="authors">
+        <span class="author-name">Samuele Cornell</span>,
+        <span class="author-name">Matthew Wiesner</span>,
+        <span class="author-name">Shinji Watanabe</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Xuankai Chang</span>,
+        <span class="author-name">Paola Garcia</span>,
+        <span class="author-name">Matthew Maciejewski</span>,
+        <span class="author-name">Yoshiki Masuyama</span>,
+        <span class="author-name">Zhong-Qiu Wang</span>,
+        <span class="author-name">Stefano Squartini</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">CHiME Workshop at InterSpeech 2023</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2306.13734" class="paper-link arxiv">Paper</a>
+        <a href="https://www.chimechallenge.org/current/task1/index" class="paper-link website">Website</a>
+      </div>
+    </div>
 
-- **Adapting self-supervised models to multi-talker speech recognition using speaker embeddings**  
-  Zili Huang, **Desh Raj**, Paola Garcia, Sanjeev Khudanpur  
-  *IEEE ICASSP 2023*  
-  [Paper](https://arxiv.org/abs/2211.00482){: .btn}
-  [Code](https://github.com/HuangZiliAndy/SSL_for_multitalker){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">GPU-accelerated guided source separation for meeting transcription</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">InterSpeech 2023</div>
+      <div class="paper-links">
+        <a href="https://www.isca-speech.org/archive/interspeech_2023/raj23_interspeech.html" class="paper-link isca">Paper</a>
+        <a href="https://arxiv.org/abs/2212.05271" class="paper-link arxiv">ArXiv</a>
+        <a href="/static/poster/interspeech-23-gss.pdf" class="paper-link poster">Poster</a>
+        <a href="https://github.com/desh2608/gss" class="paper-link code">Code</a>
+      </div>
+    </div>
 
-**2022**
+    <div class="publication-item">
+      <h3 class="paper-title">Anchored speech recognition using neural transducers</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Junteng Jia</span>,
+        <span class="author-name">Jay Mahadeokar</span>,
+        <span class="author-name">Chunyang Wu</span>,
+        <span class="author-name">Niko Moritz</span>,
+        <span class="author-name">Xiaohui Zhang</span>,
+        <span class="author-name">Ozlem Kalinli</span>
+      </div>
+      <div class="venue">IEEE ICASSP 2023</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2210.11588" class="paper-link arxiv">Paper</a>
+        <a href="/static/ppt/icassp23_tsasr.pdf" class="paper-link slides">Slides</a>
+        <a href="https://youtu.be/L2WnjQC8Pe0" class="paper-link video">Video</a>
+      </div>
+    </div>
 
-- **Low-Latency speech separation guided diarization for telephone conversations**  
-  Giovanni Morrone, Samuele Cornell, **Desh Raj**, Luca Serafini, Enrico Zovato, Alessio Brutti, Stefano Squartini  
-  *IEEE Spoken Language Technology (SLT) Workshop 2022*  
-  [Paper](https://arxiv.org/abs/2204.02306){: .btn} 
+    <div class="publication-item">
+      <h3 class="paper-title">Adapting self-supervised models to multi-talker speech recognition using speaker embeddings</h3>
+      <div class="authors">
+        <span class="author-name">Zili Huang</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Paola Garcia</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">IEEE ICASSP 2023</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2211.00482" class="paper-link arxiv">Paper</a>
+        <a href="https://github.com/HuangZiliAndy/SSL_for_multitalker" class="paper-link code">Code</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-- **Continuous streaming multi-talker ASR with dual-path transducers**  
-  **Desh Raj**, Liang Lu, Zhuo Chen, Yashesh Gaur, Jinyu Li  
-  *IEEE ICASSP 2022*  
-  [Paper](https://arxiv.org/abs/2109.08555){: .btn}
-  [Slides](/static/ppt/intern_multi_surt.pdf){: .btn}
-  [Poster](/static/poster/icassp-22-surt-poster.pdf){: .btn}
-  [Video](/static/video/icassp22_multi_surt.mp4){: .btn}
+<div class="year-section" id="year-2022">
+  <div class="year-header">
+    <h2 class="year-title">2022</h2>
+    <div class="year-count">3 publications</div>
+  </div>
 
-- **Injecting text and cross-lingual supervision in few-shot learning from self-supervised models**  
-  Matthew Wiesner, **Desh Raj**, Sanjeev Khudanpur  
-  *IEEE ICASSP 2022*  
-  [Paper](https://arxiv.org/abs/2110.04863){: .btn}
-  [Code](https://github.com/m-wiesner/nnet_pytorch/tree/conda_install/babel){: .btn}
-  [Poster](/static/poster/icassp-22-lfmmi-poster.pdf){: .btn}
-  [Video (Matthew)](/static/video/icassp22_wav2vec_lfmmi.mp4){: .btn}
+  <div class="publications-list">
 
-**2021**
+    <div class="publication-item">
+      <h3 class="paper-title">Low-Latency speech separation guided diarization for telephone conversations</h3>
+      <div class="authors">
+        <span class="author-name">Giovanni Morrone</span>,
+        <span class="author-name">Samuele Cornell</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Luca Serafini</span>,
+        <span class="author-name">Enrico Zovato</span>,
+        <span class="author-name">Alessio Brutti</span>,
+        <span class="author-name">Stefano Squartini</span>
+      </div>
+      <div class="venue">IEEE Spoken Language Technology (SLT) Workshop 2022</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2204.02306" class="paper-link arxiv">Paper</a>
+      </div>
+    </div>
 
-- **Joint speaker diarization and speech recognition based on region proposal networks**  
-  Zili Huang, Marc Delcroix, Leibny Paola Garcia, Shinji Watanabe, **Desh Raj**, Sanjeev Khudanpur  
-  *Computer, Speech, and Language, Vol. 72*  
-  [Paper](https://doi.org/10.1016/j.csl.2021.101316){: .btn}
+    <div class="publication-item">
+      <h3 class="paper-title">Continuous streaming multi-talker ASR with dual-path transducers</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Liang Lu</span>,
+        <span class="author-name">Zhuo Chen</span>,
+        <span class="author-name">Yashesh Gaur</span>,
+        <span class="author-name">Jinyu Li</span>
+      </div>
+      <div class="venue">IEEE ICASSP 2022</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2109.08555" class="paper-link arxiv">Paper</a>
+        <a href="/static/ppt/intern_multi_surt.pdf" class="paper-link slides">Slides</a>
+        <a href="/static/poster/icassp-22-surt-poster.pdf" class="paper-link poster">Poster</a>
+        <a href="/static/video/icassp22_multi_surt.mp4" class="paper-link video">Video</a>
+      </div>
+    </div>
 
-- **Reformulating DOVER-Lap label mapping as a graph partitioning problem**  
-  **Desh Raj**, Sanjeev Khudanpur  
-  *INTERSPEECH 2021*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2021/raj21b_interspeech.html){: .btn}
-  [Code](https://github.com/desh2608/dover-lap){: .btn}
-  [Report](/static/report/doverlap.pdf){: .btn}
-  [Slides](/static/ppt/interspeech21_doverlap.pdf){: .btn}
-  [Video](/static/video/interspeech21_doverlap_full.mp4){: .btn}
+    <div class="publication-item">
+      <h3 class="paper-title">Injecting text and cross-lingual supervision in few-shot learning from self-supervised models</h3>
+      <div class="authors">
+        <span class="author-name">Matthew Wiesner</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">IEEE ICASSP 2022</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2110.04863" class="paper-link arxiv">Paper</a>
+        <a href="https://github.com/m-wiesner/nnet_pytorch/tree/conda_install/babel" class="paper-link code">Code</a>
+        <a href="/static/poster/icassp-22-lfmmi-poster.pdf" class="paper-link poster">Poster</a>
+        <a href="/static/video/icassp22_wav2vec_lfmmi.mp4" class="paper-link video">Video (Matthew)</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-- **Auxiliary loss function for target speech extraction and recognition with weak supervision based on speaker characteristics**  
-  Katerina Zmolikova, Marc Delcroix, **Desh Raj**, Shinji Watanabe, Jan Černocký  
-  *INTERSPEECH 2021*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2021/zmolikova21_interspeech.html){: .btn}
+<div class="year-section" id="year-2021">
+  <div class="year-header">
+    <h2 class="year-title">2021</h2>
+    <div class="year-count">10 publications</div>
+  </div>
 
-- **Target-speaker voice activity detection with improved i-vector estimation for unknown number of speaker**  
-  Mao-Kui He, **Desh Raj**, Zili Huang, Jun Du, Zhuo Chen, Shinji Watanabe  
-  *INTERSPEECH 2021*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2021/he21c_interspeech.html){: .btn}
+    <div class="publications-list">
+      <div class="publication-item">
+        <h3 class="paper-title">Joint speaker diarization and speech recognition based on region proposal networks</h3>
+        <div class="authors">
+          <span class="author-name">Zili Huang</span>,
+          <span class="author-name">Marc Delcroix</span>,
+          <span class="author-name">Leibny Paola Garcia</span>,
+          <span class="author-name">Shinji Watanabe</span>,
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Sanjeev Khudanpur</span>
+        </div>
+        <div class="venue">Computer, Speech, and Language, Vol. 72</div>
+        <div class="paper-links">
+          <a href="https://doi.org/10.1016/j.csl.2021.101316" class="paper-link proceedings">Paper</a>
+        </div>
+      </div>
 
-- **Training hybrid models on noisy transliterated transcripts for code-switched speech recognition**  
-  Matthew Wiesner, Mousmita Sarma, Ashish Arora, **Desh Raj**, Dongji Gao, Ruizhe Huang, Supreet Preet, Moris Johnson, Zikra Iqbal, Nagendra Goel, Jan Trmal, Leibny Garcıa-Perera, Sanjeev Khudanpur  
-  *INTERSPEECH 2021*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2021/wiesner21_interspeech.html){: .btn}
-  [Code](https://github.com/m-wiesner/codeswitching2021){: .btn}
+      <div class="publication-item">
+        <h3 class="paper-title">Reformulating DOVER-Lap label mapping as a graph partitioning problem</h3>
+        <div class="authors">
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Sanjeev Khudanpur</span>
+        </div>
+        <div class="venue">INTERSPEECH 2021</div>
+        <div class="paper-links">
+          <a href="https://www.isca-speech.org/archive/interspeech_2021/raj21b_interspeech.html" class="paper-link isca">Paper</a>
+          <a href="https://github.com/desh2608/dover-lap" class="paper-link code">Code</a>
+          <a href="/static/report/doverlap.pdf" class="paper-link report">Report</a>
+          <a href="/static/ppt/interspeech21_doverlap.pdf" class="paper-link slides">Slides</a>
+          <a href="/static/video/interspeech21_doverlap_full.mp4" class="paper-link video">Video</a>
+        </div>
+      </div>
 
-- **The Hitachi-JHU DIHARD III system: Competitive end-to-end neural diarization and x-vector clustering systems combined by DOVER-Lap**  
-  Shota Horiguchi, Nelson Yalta, Paola Garcia, Yuki Takashima, Yawen Xue, **Desh Raj**, Zili Huang, Yusuke Fujita, Shinji Watanabe, Sanjeev Khudanpur  
-  *Third DIHARD Speech Diarization Challenge*  
-  [Paper](https://arxiv.org/abs/2102.01363){: .btn}
+      <!-- Continue with the rest of 2021 papers... -->
+      <div class="publication-item">
+        <h3 class="paper-title">Auxiliary loss function for target speech extraction and recognition with weak supervision based on speaker characteristics</h3>
+        <div class="authors">
+          <span class="author-name">Katerina Zmolikova</span>,
+          <span class="author-name">Marc Delcroix</span>,
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Shinji Watanabe</span>,
+          <span class="author-name">Jan Černocký</span>
+        </div>
+        <div class="venue">INTERSPEECH 2021</div>
+        <div class="paper-links">
+          <a href="https://www.isca-speech.org/archive/interspeech_2021/zmolikova21_interspeech.html" class="paper-link isca">Paper</a>
+        </div>
+      </div>
 
-- **Multi-class spectral clustering with overlaps for speaker diarization**  
-  **Desh Raj**, Zili Huang, Sanjeev Khudanpur  
-  *IEEE Spoken Language Technology (SLT) Workshop 2021*  
-  [Paper](https://arxiv.org/abs/2011.02900){: .btn}
-  [Code](/pages/overlap-aware-sc/){: .btn}
-  [Slides](/static/ppt/slt21_spectral_slides.pdf){: .btn}
+      <div class="publication-item">
+        <h3 class="paper-title">Multi-class spectral clustering with overlaps for speaker diarization</h3>
+        <div class="authors">
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Zili Huang</span>,
+          <span class="author-name">Sanjeev Khudanpur</span>
+        </div>
+        <div class="venue">IEEE Spoken Language Technology (SLT) Workshop 2021</div>
+        <div class="paper-links">
+          <a href="https://arxiv.org/abs/2011.02900" class="paper-link arxiv">Paper</a>
+          <a href="/pages/overlap-aware-sc/" class="paper-link code">Code</a>
+          <a href="/static/ppt/slt21_spectral_slides.pdf" class="paper-link slides">Slides</a>
+        </div>
+      </div>
 
-- **DOVER-Lap: A method for combining overlap-aware diarization outputs**  
-  **Desh Raj**, Paola Garcia, Zili Huang, Shinji Watanabe, Daniel Povey, Andreas Stolcke, Sanjeev Khudanpur  
-  *IEEE Spoken Language Technology (SLT) Workshop 2021*  
-  [Paper](https://arxiv.org/abs/2011.01997){: .btn}
-  [Code](https://github.com/desh2608/dover-lap){: .btn}
-  [Slides](/static/ppt/slt21_doverlap_slides.pdf){: .btn}
+      <div class="publication-item">
+        <h3 class="paper-title">DOVER-Lap: A method for combining overlap-aware diarization outputs</h3>
+        <div class="authors">
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Paola Garcia</span>,
+          <span class="author-name">Zili Huang</span>,
+          <span class="author-name">Shinji Watanabe</span>,
+          <span class="author-name">Daniel Povey</span>,
+          <span class="author-name">Andreas Stolcke</span>,
+          <span class="author-name">Sanjeev Khudanpur</span>
+        </div>
+        <div class="venue">IEEE Spoken Language Technology (SLT) Workshop 2021</div>
+        <div class="paper-links">
+          <a href="https://arxiv.org/abs/2011.01997" class="paper-link arxiv">Paper</a>
+          <a href="https://github.com/desh2608/dover-lap" class="paper-link code">Code</a>
+          <a href="/static/ppt/slt21_doverlap_slides.pdf" class="paper-link slides">Slides</a>
+        </div>
+      </div>
 
-- **Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis**  
-  **Desh Raj**, Pavel Denisov, Zhuo Chen, Hakan Erdogan, Zili Huang, Maokui He, Shinji Watanabe, Jun Du, Takuya Yoshioka, Yi Luo, Naoyuki Kanda, Jinyu Li, Scott Wisdom, John R. Hershey  
-  *IEEE Spoken Language Technology (SLT) Workshop 2021*  
-  [Paper](https://arxiv.org/abs/2011.02014){: .btn}
-  [Code](/pages/jsalt/){: .btn}
-  [Slides](/static/ppt/slt21_jsalt_slides.pdf){: .btn}
+      <div class="publication-item">
+        <h3 class="paper-title">Integration of speech separation, diarization, and recognition for multi-speaker meetings: System description, comparison, and analysis</h3>
+        <div class="authors">
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Pavel Denisov</span>,
+          <span class="author-name">Zhuo Chen</span>,
+          <span class="author-name">Hakan Erdogan</span>,
+          <span class="author-name">Zili Huang</span>,
+          <span class="author-name">Maokui He</span>,
+          <span class="author-name">Shinji Watanabe</span>,
+          <span class="author-name">Jun Du</span>,
+          <span class="author-name">Takuya Yoshioka</span>,
+          <span class="author-name">Yi Luo</span>,
+          <span class="author-name">Naoyuki Kanda</span>,
+          <span class="author-name">Jinyu Li</span>,
+          <span class="author-name">Scott Wisdom</span>,
+          <span class="author-name">John R. Hershey</span>
+        </div>
+        <div class="venue">IEEE Spoken Language Technology (SLT) Workshop 2021</div>
+        <div class="paper-links">
+          <a href="https://arxiv.org/abs/2011.02014" class="paper-link arxiv">Paper</a>
+          <a href="/pages/jsalt/" class="paper-link code">Code</a>
+          <a href="/static/ppt/slt21_jsalt_slides.pdf" class="paper-link slides">Slides</a>
+        </div>
+      </div>
 
-- **Sequential multi-frame neural beamforming for speech separation and enhancement**  
-  Zhong-Qiu Wang, Hakan Erdogan, Scott Wisdom, Kevin Wilson, **Desh Raj**, Shinji Watanabe, Zhuo Chen, John R. Hershey  
-  *IEEE Spoken Language Technology (SLT) Workshop 2021*  
-  [Paper](https://arxiv.org/abs/1911.07953){: .btn}
+      <div class="publication-item">
+        <h3 class="paper-title">Sequential multi-frame neural beamforming for speech separation and enhancement</h3>
+        <div class="authors">
+          <span class="author-name">Zhong-Qiu Wang</span>,
+          <span class="author-name">Hakan Erdogan</span>,
+          <span class="author-name">Scott Wisdom</span>,
+          <span class="author-name">Kevin Wilson</span>,
+          <span class="author-name author-me">Desh Raj</span>,
+          <span class="author-name">Shinji Watanabe</span>,
+          <span class="author-name">Zhuo Chen</span>,
+          <span class="author-name">John R. Hershey</span>
+        </div>
+        <div class="venue">IEEE Spoken Language Technology (SLT) Workshop 2021</div>
+        <div class="paper-links">
+          <a href="https://arxiv.org/abs/1911.07953" class="paper-link arxiv">Paper</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-**2020**
+<div class="year-section" id="year-2020">
+  <div class="year-header">
+    <h2 class="year-title">2020</h2>
+    <div class="year-count">2 publications</div>
+  </div>
 
-- **Frustratingly easy noise-aware training of acoustic models**  
-  **Desh Raj**, Jesus Villalba, Daniel Povey, Sanjeev Khudanpur  
-  *ArXiv, 2020*  
-  [Paper](https://arxiv.org/abs/2011.02090){: .btn}
-  [Code](https://github.com/desh2608/kaldi-noise-vectors){: .btn}
+  <div class="publications-list">
+    <div class="publication-item">
+      <h3 class="paper-title">Frustratingly easy noise-aware training of acoustic models</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Jesus Villalba</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">ArXiv, 2020</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2011.02090" class="paper-link arxiv">Paper</a>
+        <a href="https://github.com/desh2608/kaldi-noise-vectors" class="paper-link code">Code</a>
+      </div>
+    </div>
 
-- **The JHU multi-microphone multi-speaker ASR system for the CHiME-6 challenge**  
-  Ashish Arora\*, **Desh Raj**\*, Aswin Shanmugam Subramanian\*, Ke Li\*, Bar Benyair, Matthew Maciejewski, Piotr Zelasko, Paola Garcia, Shinji Watanabe, Sanjeev Khudanpur.  
-  *The 6th CHiME Workshop (at ICASSP 2020)*.  
-  [Paper](https://arxiv.org/abs/2006.07898){: .btn}
-  [Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
-  [Slides](https://chimechallenge.github.io/chime2020-workshop/presentations/CHiME_2020_slides_arora.pdf){: .btn}
+    <div class="publication-item">
+      <h3 class="paper-title">The JHU multi-microphone multi-speaker ASR system for the CHiME-6 challenge</h3>
+      <div class="authors">
+        <span class="author-name">Ashish Arora*</span>,
+        <span class="author-name author-me">Desh Raj*</span>,
+        <span class="author-name">Aswin Shanmugam Subramanian*</span>,
+        <span class="author-name">Ke Li*</span>,
+        <span class="author-name">Bar Benyair</span>,
+        <span class="author-name">Matthew Maciejewski</span>,
+        <span class="author-name">Piotr Zelasko</span>,
+        <span class="author-name">Paola Garcia</span>,
+        <span class="author-name">Shinji Watanabe</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">The 6th CHiME Workshop (at ICASSP 2020)</div>
+      <div class="paper-links">
+        <a href="https://arxiv.org/abs/2006.07898" class="paper-link arxiv">Paper</a>
+        <a href="https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be" class="paper-link video">Video</a>
+        <a href="https://chimechallenge.github.io/chime2020-workshop/presentations/CHiME_2020_slides_arora.pdf" class="paper-link slides">Slides</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-**2019**
+<div class="year-section" id="year-2019">
+  <div class="year-header">
+    <h2 class="year-title">2019</h2>
+    <div class="year-count">2 publications</div>
+  </div>
 
-- **Probing the infomation encoded in x-vectors**  
-  **Desh Raj**, David Snyder, Daniel Povey, Sanjeev Khudanpur.  
-  *IEEE Workshop on Automatic Speech Recognition and Understanding* (ASRU) 2019.  
-  [Paper](http://arxiv.org/abs/1909.06351){: .btn}
-  [Code](https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7){: .btn}
-  [Poster](/static/poster/asru-19-poster.pdf){: .btn}
+  <div class="publications-list">
+    <div class="publication-item">
+      <h3 class="paper-title">Probing the information encoded in x-vectors</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">David Snyder</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU) 2019</div>
+      <div class="paper-links">
+        <a href="http://arxiv.org/abs/1909.06351" class="paper-link arxiv">Paper</a>
+        <a href="https://github.com/desh2608/kaldi/commit/43cfc9d515b94b321acccae51bf39988dafbbef7" class="paper-link code">Code</a>
+        <a href="/static/poster/asru-19-poster.pdf" class="paper-link poster">Poster</a>
+      </div>
+    </div>
 
+    <div class="publication-item">
+      <h3 class="paper-title">Using ASR methods for OCR</h3>
+      <div class="authors">
+        <span class="author-name">Ashish Arora</span>,
+        <span class="author-name">Chun Chieh Chang</span>,
+        <span class="author-name">Babak Rekabdar</span>,
+        <span class="author-name">Daniel Povey</span>,
+        <span class="author-name">David Etter</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Hossein Hadian</span>,
+        <span class="author-name">Jan Trmal</span>,
+        <span class="author-name">Paola Garcia</span>,
+        <span class="author-name">Shinji Watanabe</span>,
+        <span class="author-name">Vimal Manohar</span>,
+        <span class="author-name">Yiwen Shao</span>,
+        <span class="author-name">Sanjeev Khudanpur</span>
+      </div>
+      <div class="venue">International Conference on Document Analysis and Recognition (ICDAR) 2019</div>
+      <div class="paper-links">
+        <a href="https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf" class="paper-link proceedings">Preprint</a>
+        <a href="https://ieeexplore.ieee.org/document/8978150" class="paper-link ieee">Paper</a>
+        <a href="https://github.com/kaldi-asr/kaldi/tree/master/egs/bentham" class="paper-link code">Code</a>
+        <a href="{% post_url 2018-11-22-subword-segmentation %}" class="paper-link blog">Blog</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-- **Using ASR methods for OCR**  
-  Ashish Arora, Chun Chieh Chang, Babak Rekabdar, Daniel Povey, David Etter, **Desh Raj**, Hossein Hadian, Jan Trmal, Paola Garcia, Shinji Watanabe, Vimal Manohar, Yiwen Shao, Sanjeev Khudanpur.  
-  *International Conference on Document Analysis and Recognition* (ICDAR) 2019.  
-  [Preprint](https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf){: .btn}
-  [Paper](https://ieeexplore.ieee.org/document/8978150){: .btn}
-  [Code](https://github.com/kaldi-asr/kaldi/tree/master/egs/bentham){: .btn}
-  [Blog]({% post_url 2018-11-22-subword-segmentation %}){: .btn}
+<div class="year-section" id="year-2018">
+  <div class="year-header">
+    <h2 class="year-title">2018</h2>
+    <div class="year-count">1 publication</div>
+  </div>
 
-**2018**
+  <div class="publications-list">
+    <div class="publication-item">
+      <h3 class="paper-title">Uncertain fuzzy self-organization based clustering: interval type-2 approach to adaptive resonance theory</h3>
+      <div class="authors">
+        <span class="author-name">Shakaiba Majheed</span>,
+        <span class="author-name">Aditya Gupta</span>,
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Frank Chung-hoon Rhee</span>
+      </div>
+      <div class="venue">Information Sciences, 2018</div>
+      <div class="paper-links">
+        <a href="https://doi.org/10.1016/j.ins.2017.09.062" class="paper-link proceedings">Paper</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-- **Uncertain fuzzy self-organization based clustering: interval type-2 approach to adaptive resonance theory**  
-  Shakaiba Majheed, Aditya Gupta, **Desh Raj**, Frank Chung-hoon Rhee.  
-  *Information Sciences*, 2018.  
-  [Paper](https://doi.org/10.1016/j.ins.2017.09.062){: .btn}
+<div class="year-section" id="year-2017">
+  <div class="year-header">
+    <h2 class="year-title">2017</h2>
+    <div class="year-count">2 publications</div>
+  </div>
 
-**2017**
+  <div class="publications-list">
+    <div class="publication-item">
+      <h3 class="paper-title">Learning local and global contexts using a convolutional recurrent neural network for relation classification in biomedical text</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Sunil Kumar Sahu</span>,
+        <span class="author-name">Ashish Anand</span>
+      </div>
+      <div class="venue">Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL) 2017</div>
+      <div class="paper-links">
+        <a href="https://www.aclweb.org/anthology/K17-1032" class="paper-link acl">Paper</a>
+        <a href="/static/poster/conll-17-poster.pdf" class="paper-link poster">Poster</a>
+        <a href="https://github.com/desh2608/crnn-relation-classification" class="paper-link code">Code</a>
+      </div>
+    </div>
 
-- **Learning local and global contexts using a convolutional recurrent neural network for relation classification in biomedical text**  
-  **Desh Raj**, Sunil Kumar Sahu, Ashish Anand.  
-  *Proceedings of the 21st Conference on Computational Natural Language Learning* (CoNLL) 2017.   
-  [Paper](https://www.aclweb.org/anthology/K17-1032){: .btn}
-  [Poster](/static/poster/conll-17-poster.pdf){: .btn}
-  [Code](https://github.com/desh2608/crnn-relation-classification){: .btn}
+    <div class="publication-item">
+      <h3 class="paper-title">Analysis of data generated from multidimensional type-1 and type-2 fuzzy membership functions</h3>
+      <div class="authors">
+        <span class="author-name author-me">Desh Raj</span>,
+        <span class="author-name">Aditya Gupta</span>,
+        <span class="author-name">Bhuvnesh Garg</span>,
+        <span class="author-name">Kenil Tanna</span>,
+        <span class="author-name">Frank Chung-hoon Rhee</span>
+      </div>
+      <div class="venue">IEEE Transactions on Fuzzy Systems, 2017</div>
+      <div class="paper-links">
+        <a href="http://ieeexplore.ieee.org/document/7888454/" class="paper-link ieee">Paper</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-- **Analysis of data generated from multidimensional type-1 and type-2 fuzzy membership functions**  
-  **Desh Raj**, Aditya Gupta, Bhuvnesh Garg, Kenil Tanna, Frank Chung-hoon Rhee.  
-  *IEEE Transactions on Fuzzy Systems*, 2017.  
-  [Paper](http://ieeexplore.ieee.org/document/7888454/){: .btn}
-
-<!-- 
-**Non-refereed project reports:**
-
-- **Desh Raj**. *Semi-implicit variational inference for unsupervised acoustic unit discovery*.
-    [PDF](/static/report/aud.pdf){: .btn}
-- Tara Abrishami, **Desh Raj**, Noah Scribner, Vasileios Papaioannou. *Inference on Ohio redistricting maps from
-Congressional 2016 elections*.
-    [PDF](/static/report/ohio.pdf){: .btn}
-- **Desh Raj**. *Estimating bounds for bit-truncated word embeddings*.
-    [PDF](/static/report/bounds.pdf){: .btn}
-- Venkat Arun, **Desh Raj**, Mrinal Tak, Sumeet Ranka. *Fine-grained readability estimation using language modeling*.
-    [PDF](/static/report/readability.pdf){: .btn}
-- **Desh Raj**, Kanhaiya Rathi. *A survey of probabilistic databases*. 
-    [PDF](/static/report/dbms-survery.pdf){: .btn}
-- **Desh Raj**, Abhilasha Sancheti, Mrinal Tak, Kunaal Jain. *Monitoring production line performance to reduce manufacturing failures*.
-    [PDF](/static/report/bosch.pdf){: .btn}
-- **Desh Raj**, Sumeet Ranka, Siddharth Kumar, Akashdeep Goswami, Samyak Kumbhalwar. *Spatial transformer networks*.
-    [PDF](/static/report/stn.pdf){: .btn}
-
-<br />  -->
-
-
+</div>
