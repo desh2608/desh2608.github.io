@@ -364,13 +364,13 @@ $$\hat{A}_{i,t} = \frac{r_i - \mathrm{mean}(\mathbf{r})}{\mathrm{std}(\mathbf{r}
 * This normalization by std breaks the math, i.e., the gradient is no longer equal to the desired gradient.
 * Another change is that the KL-divergence is directly included in the loss computation.
 
-#### Adaptive Regularized Policy Gradient (ARPG)
+<!-- #### Adaptive Regularized Policy Gradient (ARPG)
 * ARPG is basically the same as RLOO, but mean is computed over all rewards instead of leaving one out.
 * Standard deviation normalization is also included (unlike RLOO).
 * The entire generation is still treated as a single action.
 * Offloading framework:
 	* Generator and trainer are on different GPUs, so generator is always one step behind
-	* To solve this problem, importance sampling is used again!
+	* To solve this problem, importance sampling is used again! -->
 
 ###  Implementation  details
 
