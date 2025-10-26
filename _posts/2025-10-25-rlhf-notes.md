@@ -30,7 +30,6 @@ Some of the sections are additionally based on other sources (these will be note
   - [Proximal policy optimization (PPO)](#proximal-policy-optimization-ppo)
   - [REINFORCE Leave One Out (RLOO)](#reinforce-leave-one-out-rloo)
   - [Group Relative Policy Optimization (GRPO)](#group-relative-policy-optimization-grpo)
-  - [Adaptive Regularized Policy Gradient (ARPG)](#adaptive-regularized-policy-gradient-arpg)
   - [Implementation details](#implementation-details)
 - [Direct alignment](#direct-alignment)
   - [Direct preference optimization (DPO)](#direct-preference-optimization-dpo)
