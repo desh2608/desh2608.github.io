@@ -277,15 +277,15 @@ Based on the analysis above, here is a comprehensive comparison of the four stre
 
 | Dimension | CTC | RNN-T | AED (MoChA) | Decoder-only |
 |-----------|-----|-------|-------------|--------------|
-| **Information-theoretic capacity** | Low: No label dependency | Moderate: Audio dependency limited by $h_t(\mathbf{X}_{\leq t})$ | Moderate: Audio dependency limited to chunk | High: Rich interactions via self-attention over interleaved history |
-| **Training complexity** | Low: Standard CTC loss | Low: Forward-backward algorithm | Moderate: Need to learn monotonic attention | High: Learn interleaved sequence |
-| **Decoding complexity** | Simple: Beam search with prefix merging | Moderate: 2D beam search over $(t,u)$ | Moderate: Monotonic attention decisions | Moderate: Autoregressive with KV cache |
-| **Streaming naturalness** | Native: Frame-synchronous by design | Native: Frame-synchronous by design | Requires MoChA adaptation | Requires chunking and alignment |
-| **Train-test mismatch** | None: Same factorization | None: Same factorization | Moderate: Alignment errors in MoChA | High: Alignment drift during inference |
-| **Latency control** | Fixed: Encoder lookahead only | Fixed: Encoder lookahead only | Flexible: Chunk size hyperparameter | Flexible: Chunk size hyperparameter |
-| **Scaling with data** | Limited: Encoder can scale | Limited: Larger predictor rarely shows improvements | Good: Cross-attention learns alignments | Best: Pre-trained LLMs transfer well |
-| **Inference cost** | Lowest: Single forward pass | Low: Predictor and joiner are typically small | Medium: Monotonic + chunk attention | Highest: Need to maintain KV cache |
-| **Practical adoption** | High: Simple and effective | High: Industry standard | None: Training complexity | Growing: Leverages LLM infrastructure |
+| **Information-theoretic capacity** | <span style="color:red">Low</span>: No label dependency | <span style="color:orange">Moderate</span>: Audio dependency limited by $h_t(\mathbf{X}_{\leq t})$ | <span style="color:orange">Moderate</span>: Audio dependency limited to chunk | <span style="color:green">High</span>: Rich interactions via self-attention over interleaved history |
+| **Training complexity** | <span style="color:green">Low</span>: Standard CTC loss | <span style="color:green">Low</span>: Forward-backward algorithm | <span style="color:orange">Moderate</span>: Need to learn monotonic attention | <span style="color:red">High</span>: Learn interleaved sequence |
+| **Decoding complexity** | <span style="color:green">Simple</span>: Beam search with prefix merging | <span style="color:orange">Moderate</span>: 2D beam search over $(t,u)$ | <span style="color:orange">Moderate</span>: Monotonic attention decisions | <span style="color:orange">Moderate</span>: Autoregressive with KV cache |
+| **Streaming naturalness** | <span style="color:green">Native</span>: Frame-synchronous by design | <span style="color:green">Native</span>: Frame-synchronous by design | <span style="color:red">Requires MoChA adaptation</span> | <span style="color:red">Requires chunking and alignment</span> |
+| **Train-test mismatch** | <span style="color:green">None</span>: Same factorization | <span style="color:green">None</span>: Same factorization | <span style="color:orange">Moderate</span>: Alignment errors in MoChA | <span style="color:red">High</span>: Alignment drift during inference |
+| **Latency control** | <span style="color:red">Fixed</span>: Encoder lookahead only | <span style="color:red">Fixed</span>: Encoder lookahead only | <span style="color:green">Flexible</span>: Chunk size hyperparameter | <span style="color:green">Flexible</span>: Chunk size hyperparameter |
+| **Scaling with data** | <span style="color:red">Limited</span>: Encoder can scale | <span style="color:red">Limited</span>: Larger predictor rarely shows improvements | <span style="color:orange">Good</span>: Cross-attention learns alignments | <span style="color:green">Best</span>: Pre-trained LLMs transfer well |
+| **Inference cost** | <span style="color:green">Lowest</span>: Single forward pass | <span style="color:green">Low</span>: Predictor and joiner are typically small | <span style="color:orange">Medium</span>: Monotonic + chunk attention | <span style="color:red">Highest</span>: Need to maintain KV cache |
+| **Practical adoption** | <span style="color:green">High</span>: Simple and effective | <span style="color:green">High</span>: Industry standard | <span style="color:red">None</span>: Training complexity | <span style="color:orange">Growing</span>: Leverages LLM infrastructure |
 
 ### Key Takeaways
 
