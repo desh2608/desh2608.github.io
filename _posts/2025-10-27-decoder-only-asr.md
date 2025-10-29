@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Curious Case of Decoder-only Models for Streaming ASR
+title: Are Decoder-only Models the Future of Streaming ASR?
 tags: ["asr","transducer","ctc","decoder-only"]
 mathjax: true
 published: true
