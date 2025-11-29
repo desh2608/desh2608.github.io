@@ -13,7 +13,7 @@ title: Publications
 
 <div class="year-section" id="year-2025">
   <div class="year-header">
-    <h2 class="year-title">2024</h2>
+    <h2 class="year-title">2025</h2>
     <div class="year-count">4 publications</div>
   </div>
 
@@ -32,7 +32,7 @@ title: Publications
         <span class="author-name">Ozlem Kalinli</span>,
         <span class="author-name">Mike Seltzer</span>
       </div>
-      <div class="venue">Submitted to ICLR 2026</div>
+      <!-- <div class="venue">Submitted to ICLR 2026</div> -->
       <div class="paper-links">
         <a href="https://arxiv.org/abs/2510.07497" class="paper-link arxiv">Paper</a>
       </div>
