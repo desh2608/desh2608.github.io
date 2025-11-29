@@ -1,6 +1,20 @@
-{% if page.mathjax %}
-<!-- https://docs.mathjax.org/en/latest/configuration.html#local-config-files -->
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-AMS-MML_HTMLorMML,https://idcrook.github.io/assets/js/MathJaxLocal.js">
+{% if page.mathjax or site.mathjax %}
+<!-- Reliable MathJax Configuration -->
+<script>
+        MathJax = {
+                tex: {
+                        inlineMath: [['$', '$'], ['\\(', '\\)']],
+                        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                        processEscapes: true,
+                        processEnvironments: true
+                },
+                chtml: {
+                        scale: 1.0,
+                        displayAlign: 'center',
+                        displayIndent: '0'
+                }
+        };
+</script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
 {% endif %}
