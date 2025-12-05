@@ -35,6 +35,7 @@ title: Publications
       <!-- <div class="venue">Submitted to ICLR 2026</div> -->
       <div class="paper-links">
         <a href="https://arxiv.org/abs/2510.07497" class="paper-link arxiv">Paper</a>
+        <a href="/static/ppt/moshi_cot.pdf" class="paper-link slides">Slides</a>
       </div>
     </div>
 
