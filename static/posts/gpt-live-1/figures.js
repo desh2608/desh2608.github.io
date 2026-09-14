@@ -715,7 +715,7 @@
         { name: "GPT Realtime Mini (Oct '25)", value: 15.1, cls: "openai" }
       ]
     });
-    el("p", { "class": "glf-caption", html: "Same benchmark, three numbers for GPT-Live-1: 86.2% in OpenAI's launch post, 81.7% on the leaderboard, 67.9% on Artificial Analysis. The backend model and its reasoning effort are part of the system under test." }, root);
+    el("p", { "class": "glf-caption", html: "Same benchmark, three numbers for GPT-Live-1: 86.2% in OpenAI's launch post (Sierra run, custom user simulator), 81.7% on the leaderboard (GPT-4.1 user simulator), 67.9% on Artificial Analysis (a harness OpenAI says had bugs). The user simulator and the backend model are both part of the system under test." }, root);
   }
 
   // =====================================================================

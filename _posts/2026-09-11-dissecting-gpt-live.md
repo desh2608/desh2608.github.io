@@ -18,7 +18,7 @@ OpenAI released [GPT-Live-1 in the API](https://openai.com/index/introducing-gpt
 OpenAI has not published anything about the architecture, but we can still infer a lot from the API, the pricing, the docs, and third-party evals. In this post, let us go through what we know and what we can guess.
 
 <div class="glf-guide">
-<p><strong>How to read this page.</strong> Everything in the main text is sourced, with links to the docs, tweets, and leaderboards it comes from. Our guesses are kept out of the main text: they appear as <span class="sn-tag">guess</span> notes in the right margin, anchored to the sentence they comment on. On a narrow screen, tap the <span style="color:#0e7a57">✦</span> marker to expand a note inline. Things we could not resolve from public information are called out in amber <strong style="color:#92400e">? Open question</strong> boxes where they come up.</p>
+<p><strong>How to read this page.</strong> Everything in the main text is sourced, with links to the docs, tweets, and leaderboards it comes from. Our guesses are kept out of the main text: they appear as <span class="sn-tag">guess</span> notes in the right margin, anchored to the sentence they comment on. On a narrow screen, tap the <span style="color:#0e7a57">✦</span> marker to expand a note inline. Things we could not resolve from public information are called out in amber <strong style="color:#92400e">? Open question</strong> boxes where they come up. When one gets answered, we strike it out and add the answer in place.</p>
 <p>The figures are interactive. Figure 1 and Figure 2 play a scripted sequence and can be stepped through; Figure 3 has sliders for the assumptions behind the pricing model; the benchmark charts link to their sources.</p>
 </div>
 
@@ -150,7 +150,7 @@ Context also fills fast: ~2000 tokens per minute plus ~500 per backend call. The
 
 > **Open questions:**
 >
-> - Why is AA's number so different from the leaderboard and the blog? There is randomness from the dynamic user, but does that explain 20 points?
+> - ~~Why is AA's number so different from the leaderboard and the blog? There is randomness from the dynamic user, but does that explain 20 points?~~ **Answered.** [Jiayu from OpenAI clarified on X](https://x.com/daidaijiayu/status/2098561342387179748): the 86.2% in the launch post is from a Sierra run with a custom user simulator. The τ³-Voice leaderboard uses GPT-4.1 as the default user simulator, and GPT-Live-1 gets 81.7% there, "still the top on that setting." The Artificial Analysis number came from a harness with bugs, so it is not comparable. Different user simulators, not model variance, explain the spread.
 > - How much of the score is the backend? Astra-medium vs Sol-low is 8.6 points, even though the tasks are simple. How do Astra and Sol score on text τ²-bench, which is the source data? That would isolate the frontend's contribution.
 > - What kind of errors improved over GPT-Realtime? Did delegation fix task execution, or did the interaction quality also change outcomes?
 {: .oq}

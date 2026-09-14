@@ -455,7 +455,7 @@
   color: #92400e;
 }
 
-.blog-post blockquote.oq strong::before {
+.blog-post blockquote.oq > p:first-child > strong:first-child::before {
   content: "? ";
   font-weight: 800;
 }
@@ -713,4 +713,10 @@
   .glf .glf-readout {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+}
+
+/* Answered open questions are struck through, with the answer following */
+.blog-post blockquote.oq del {
+  color: #94a3b8;
+  text-decoration-color: #cbd5e1;
 }
